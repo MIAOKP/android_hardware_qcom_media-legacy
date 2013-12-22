@@ -16,6 +16,7 @@
  */
 #include <system/window.h>
 #include <media/hardware/HardwareAPI.h>
+#include <media/hardware/MetadataBufferType.h>
 
 namespace android {
     typedef struct encoder_media_buffer_type {
